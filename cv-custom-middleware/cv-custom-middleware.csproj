@@ -1,9 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>cv_custom_middleware</RootNamespace>
+    <UserSecretsId>001d5c74eefb5bce3a7cc4e785140441</UserSecretsId>
   </PropertyGroup>
-
-
 </Project>
